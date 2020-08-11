@@ -1,0 +1,6 @@
+name: FireAspect
+version: ${project.version}
+main: com.liamcoalstudios.liamplugin.fireaspect.FireAspect
+api-version: 1.16
+prefix: FileAspect
+description: Automagic smelting!
